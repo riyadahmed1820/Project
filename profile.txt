@@ -1,0 +1,1 @@
+{"fname":"Riyad","lname":"Ahmed","gen":"Male","uname":"Riyad18","password":"123","email":"riyadahmed@gmail.com","rmail":"arnobahmed@gmail.com","propic":"propic.jpg"}
